@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <cs50.h>
 
-
 int main(void)
 {
     //get_string allows us to ask the user to enter some text

@@ -12,7 +12,7 @@ int main(void)
     int MC2 = 52;  
     int MC3 = 53;  
     int MC4 = 54;  
-    int MC5 = 55;  
+    int MC5 = 55; 
     int Visa = 4;
     int count;
     long card = 0;
